@@ -1,6 +1,6 @@
 
 [marcuswestin/store.js]:https://github.com/marcuswestin/store.js
-
+[marcuswestin/store.js]
 store.js
 ========
 
